@@ -1,4 +1,4 @@
-# mobile_sensor_data_collection
+# Mobile Sensor Data Collection
 
 The python code is give in "IoT Project.ipynb" file. It is self contained and comments are given so that anyone can understand it easily. Initially, we load the data, perform feature selection, and apply ML algorithm.
 
